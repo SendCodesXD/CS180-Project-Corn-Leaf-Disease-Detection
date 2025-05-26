@@ -69,7 +69,7 @@ The code for this solution is organized into the following Jupyter Notebooks:
 
 ---
 
-## Solution 2: Deep Learning with Transformer (DeiT)
+## Solution 2: Deep Learning with Transformer (DeiT or Data-efficient Image Transformer)
 
 ### Approach
 
